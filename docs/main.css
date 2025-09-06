@@ -1,14 +1,19 @@
-.title {
-    color: rgb(255, 255, 255);
-    position: absolute; 
-    left: 50%;
-    transform: translate(-50%, -50%); 
-    margin: 0;
-    font-size: 50px;
-    margin-top: 50px;
-}
-body{
-    background-color: black;
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #1a1a1a;
+    color: #f0f0f0;
 }
 
+.title {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: #ff6347;
+}
+
+p {
+    font-size: 1.5em;
+    color: #ccc;
+}
 
